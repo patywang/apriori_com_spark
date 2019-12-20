@@ -1,0 +1,27 @@
+Confianca#Lift(B,!C)#Lift(B,C)#Regra#Suporte
+0.840696#0.368375#1.481273#Being John Malkovich (1999) => American Beauty (1999)#0.311921
+0.738559#0.604556#1.301313#Fargo (1996) => American Beauty (1999)#0.307285
+0.716447#0.655690#1.262351#Silence of the Lambs, The (1991) => American Beauty (1999)#0.305795
+0.714286#0.565994#1.442423#Back to the Future (1985) => Star Wars: Episode IV - A New Hope (1977)#0.305464
+0.737515#0.519807#1.489829#Back to the Future (1985) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.315397
+0.708108#0.523464#1.600664#Matrix, The (1999) => Jurassic Park (1993)#0.303642
+0.763987#0.423253#1.726977#Men in Black (1997) => Jurassic Park (1993)#0.321026
+0.725674#0.473139#1.726977#Jurassic Park (1993) => Men in Black (1997)#0.321026
+0.720649#0.500973#1.629013#Terminator 2: Judgment Day (1991) => Jurassic Park (1993)#0.316060
+0.714446#0.508624#1.629013#Jurassic Park (1993) => Terminator 2: Judgment Day (1991)#0.316060
+0.736680#0.521632#1.487644#Matrix, The (1999) => Star Wars: Episode IV - A New Hope (1977)#0.315894
+0.741313#0.512286#1.497501#Matrix, The (1999) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.317881
+0.746697#0.443464#1.741332#Terminator 2: Judgment Day (1991) => Matrix, The (1999)#0.327483
+0.763707#0.420882#1.741332#Matrix, The (1999) => Terminator 2: Judgment Day (1991)#0.327483
+0.700264#0.516963#1.666508#Terminator 2: Judgment Day (1991) => Men in Black (1997)#0.307119
+0.730890#0.479334#1.666508#Men in Black (1997) => Terminator 2: Judgment Day (1991)#0.307119
+0.784407#0.427084#1.584025#Raiders of the Lost Ark (1981) => Star Wars: Episode IV - A New Hope (1977)#0.326490
+0.795147#0.405676#1.606250#Raiders of the Lost Ark (1981) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.330960
+0.787625#0.420709#1.590524#Star Wars: Episode V - The Empire Strikes Back (1980) => Star Wars: Episode IV - A New Hope (1977)#0.389901
+0.787362#0.421093#1.590524#Star Wars: Episode IV - A New Hope (1977) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.389901
+0.732917#0.529085#1.480047#Star Wars: Episode VI - Return of the Jedi (1983) => Star Wars: Episode IV - A New Hope (1977)#0.349834
+0.706453#0.561617#1.480047#Star Wars: Episode IV - A New Hope (1977) => Star Wars: Episode VI - Return of the Jedi (1983)#0.349834
+0.713099#0.568344#1.440027#Terminator 2: Judgment Day (1991) => Star Wars: Episode IV - A New Hope (1977)#0.312748
+0.772806#0.449918#1.561120#Star Wars: Episode VI - Return of the Jedi (1983) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.368874
+0.745151#0.487580#1.561120#Star Wars: Episode V - The Empire Strikes Back (1980) => Star Wars: Episode VI - Return of the Jedi (1983)#0.368874
+0.721404#0.551711#1.457285#Terminator 2: Judgment Day (1991) => Star Wars: Episode V - The Empire Strikes Back (1980)#0.316391
